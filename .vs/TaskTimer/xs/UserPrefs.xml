@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{716D1851-E236-4108-91D7-64170D097D25}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.0.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TaskTimer/MainPage.xaml.cs" Line="7" Column="1" />
+      <File FileName="TaskTimer/Models/Task.cs" Line="9" Column="47" />
+      <File FileName="TaskTimer/Models/Category.cs" Line="12" Column="1" />
+      <File FileName="TaskTimer/Data/AppDbContext.cs" Line="17" Column="1" />
+      <File FileName="TaskTimer/MauiProgram.cs" Line="21" Column="1" />
+      <File FileName="TaskTimer/Data/SeedData.cs" Line="34" Column="37" />
+      <File FileName="TaskTimer/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="TaskTimer/MainPage.xaml" Line="20" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskTimer" expanded="True">
+            <Node name="TaskTimer" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mikailsenal/RiderProjects/TaskTimer/TaskTimer/Data/AppDbContext.cs" relfile="TaskTimer/Data/AppDbContext.cs" line="22" column="1" />
+      <Breakpoint file="/Users/mikailsenal/RiderProjects/TaskTimer/TaskTimer/Data/AppDbContext.cs" relfile="TaskTimer/Data/AppDbContext.cs" line="17" column="1" />
+      <Breakpoint file="/Users/mikailsenal/RiderProjects/TaskTimer/TaskTimer/Data/SeedData.cs" relfile="TaskTimer/Data/SeedData.cs" line="17" column="1" />
+      <Breakpoint file="/Users/mikailsenal/RiderProjects/TaskTimer/TaskTimer/Data/AppDbContext.cs" relfile="TaskTimer/Data/AppDbContext.cs" line="19" column="1" />
+      <Breakpoint file="/Users/mikailsenal/RiderProjects/TaskTimer/TaskTimer/Data/AppDbContext.cs" relfile="TaskTimer/Data/AppDbContext.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.Ide.ItemProperties.TaskTimer PreferredExecutionTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
